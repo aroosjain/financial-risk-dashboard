@@ -1,0 +1,5 @@
+streamlit>=1.40,<2
+pandas>=2.0
+pyarrow>=14
+altair>=5
+requests>=2.31
