@@ -1,0 +1,4 @@
+Check,n,AUC full logit,AUC Altman Z''
+Onset only (not distressed in year t),1621,0.7637182253071945,0.7130060165891701
+No profitability variables,1859,0.8050664703363721,0.7563755130173251
+"Validation year (FY2024), model on FY2023",1895,0.8595823041311069,0.7751039062846662
